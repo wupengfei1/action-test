@@ -2,7 +2,7 @@ name: A workflow for git page
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
